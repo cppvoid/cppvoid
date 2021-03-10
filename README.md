@@ -1,4 +1,7 @@
-### Hi there 👋
+<span>
+  <img src="https://raw.githubusercontent.com/cppvoid/stats/457efd5b61d8fd31d415b83e5b9927907e9e2ea3/generated/overview.svg" alt="overview" />
+  <img src="https://raw.githubusercontent.com/cppvoid/stats/457efd5b61d8fd31d415b83e5b9927907e9e2ea3/generated/languages.svg" alt="language" />
+</span>
 
 <!--
 **cppvoid/cppvoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
