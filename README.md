@@ -1,6 +1,6 @@
 <span>
-  <img src="https://raw.githubusercontent.com/cppvoid/stats/ca558317ef982af9ed0a82a05abe9330e3985b71/generated/overview.svg" alt="overview" />
-  <img src="https://raw.githubusercontent.com/cppvoid/stats/ca558317ef982af9ed0a82a05abe9330e3985b71/generated/languages.svg" alt="language" />
+  <img src="https://raw.githubusercontent.com/cppvoid/stats/1c14ae68d131c911739fef019b3064d7a64a3a0e/generated/overview.svg" alt="overview" />
+  <img src="https://raw.githubusercontent.com/cppvoid/stats/1c14ae68d131c911739fef019b3064d7a64a3a0e/generated/languages.svg" alt="language" />
 </span>
 
 <!--
